@@ -3,3 +3,17 @@ body{
     text-align: center;
     background-image:url("../images/ocean.jpg");
 }
+.heading{
+    font-size:50px;
+    padding: 1em;
+    margin-bottom: 2em;
+    text-shadow:0 0 4px white;
+}
+.text{
+    font-size: 25px;
+    color: white;
+
+}
+label{
+    color:aliceblue
+}
